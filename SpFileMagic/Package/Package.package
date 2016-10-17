@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="be2eacee-bac1-4ac8-8f99-0d9caddea7dd" 
+        solutionId="be2eacee-bac1-4ac8-8f99-0d9caddea7dd" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SpFileMagic"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="2c00e35b-2fc1-40dd-a54b-d2b6eef68b10" />
+  </features>
+</package>
